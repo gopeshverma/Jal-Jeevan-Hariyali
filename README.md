@@ -233,4 +233,5 @@ python encode_image.py path/to/your/image.jpg
 
 Developed by Yuvraj Aarsh
 #   J a l - J e e v a n - H a r i y a l i  
+ #   J a l - J e e v a n - H a r i y a l i  
  
