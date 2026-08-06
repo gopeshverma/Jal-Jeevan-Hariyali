@@ -232,3 +232,5 @@ python encode_image.py path/to/your/image.jpg
 - **Matplotlib** — evaluation visualizations (training curves, AP charts, confusion matrix)
 
 Developed by Yuvraj Aarsh
+#   J a l - J e e v a n - H a r i y a l i  
+ 
